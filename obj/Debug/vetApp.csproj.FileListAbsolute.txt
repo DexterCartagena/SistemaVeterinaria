@@ -1,0 +1,11 @@
+D:\C#\vetApp\obj\Debug\vetApp.csproj.AssemblyReference.cache
+D:\C#\vetApp\obj\Debug\vetApp.Form1.resources
+D:\C#\vetApp\obj\Debug\vetApp.Properties.Resources.resources
+D:\C#\vetApp\obj\Debug\vetApp.csproj.GenerateResource.cache
+D:\C#\vetApp\obj\Debug\vetApp.csproj.CoreCompileInputs.cache
+D:\C#\vetApp\bin\Debug\vetApp.exe
+D:\C#\vetApp\bin\Debug\vetApp.pdb
+D:\C#\vetApp\obj\Debug\vetApp.exe
+D:\C#\vetApp\obj\Debug\vetApp.pdb
+D:\C#\vetApp\obj\Debug\vetApp.form2.resources
+D:\C#\vetApp\obj\Debug\vetApp.registroMascota.resources
